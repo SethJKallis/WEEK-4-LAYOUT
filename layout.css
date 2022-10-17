@@ -15,14 +15,14 @@
 
 #left{
     background-color: darkcyan;
-    min-width: 300px;
-    /* min-height: 100vh; */
+    max-width: 200px;
+    min-height: 100vh;
     float: left;
 }
 
 #right{
     background-color: darkkhaki;
-    min-width: 300px;
-    /* min-height: 100vh; */
+    max-width: 200px;
+    min-height: 100vh;
     float: right;
 }
